@@ -1,11 +1,29 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app>
 <head>
     <meta charset="UTF-8">
     <title>Try Angular 1.5</title>
-    <script> src="./js/angular.min.js"</script>
+    <script> src= "./js/angular.min.js"</script>
+    <script> src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5/angular.min.js"</script>
+
+    <style>
+        .new-class{
+            font-size: 72px;
+        }
+        .other-class{
+            font-size: 32px;
+        }
+        .new-class2{
+            font-size: 60px;
+        }
+    </style>
 </head>
 <body>
-    <h1>Hello World</h1>
+    <h1 class="new-class" ng-class="{'other-class': name=='Purrgrammer', 'new-class2: font==60}">Hello,
+        <span ng-if="name">{{ name }}</span>
+        <span ng-if="!name">World</span>
+    !
+    </h1>
+    <input type="text" ng-model="name"/>
 </body>
 </html>
