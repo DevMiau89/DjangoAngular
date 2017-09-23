@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="angularjs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/js/angular.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

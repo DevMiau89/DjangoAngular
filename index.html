@@ -1,11 +1,15 @@
 <!DOCTYPE html>
-<html lang="en" ng-app>
+<html lang="en" ng-app="try">
 <head>
     <meta charset="UTF-8">
     <title>Try Angular 1.5</title>
-    <script> src= "./js/angular.min.js"</script>
-    <script> src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5/angular.min.js"</script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular.min.js"></script>
 
+    <script src= "./src/js/app/app.module.js"></script>
+    <script src= "./src/js/app/app.config.js"></script>
+
+    <script src= "./src/js/app/blog-list/blog-list.module.js"></script>
+    <script src= "./src/js/app/blog-list/blog-list.component.js"></script>
     <style>
         .new-class{
             font-size: 72px;
@@ -18,12 +22,7 @@
         }
     </style>
 </head>
-<body>
-    <h1 class="new-class" ng-class="{'other-class': name=='Purrgrammer', 'new-class2: font==60}">Hello,
-        <span ng-if="name">{{ name }}</span>
-        <span ng-if="!name">World</span>
-    !
-    </h1>
-    <input type="text" ng-model="name"/>
+<body >
+    <blog-list></blog-list>
 </body>
 </html>
