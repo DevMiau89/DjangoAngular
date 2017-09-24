@@ -2,10 +2,360 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abf915c6-ed6d-42e2-a97f-842b0fe3dc4b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/DjangoAngular.iml" afterPath="$PROJECT_DIR$/.idea/DjangoAngular.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular-bootstrap-prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular-bootstrap-prettify.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular-bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular-bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular-cookies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular-cookies.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular-loader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular-loader.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular-mocks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular-resource.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular-resource.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular-sanitize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular-sanitize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular-scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/jstd-scenario-adapter-config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/angularjs/static/lib/angularjs/jstd-scenario-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/django_angularjs-1.0.2.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/django_angularjs-1.0.2.dist-info/INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/django_angularjs-1.0.2.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/django_angularjs-1.0.2.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/django_angularjs-1.0.2.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/django_angularjs-1.0.2.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/django_angularjs-1.0.2.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js.angular-1.1.4-py2.7-nspkg.pth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js.angular-1.1.4.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js.angular-1.1.4.dist-info/INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js.angular-1.1.4.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js.angular-1.1.4.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js.angular-1.1.4.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js.angular-1.1.4.dist-info/entry_points.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js.angular-1.1.4.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js.angular-1.1.4.dist-info/namespace_packages.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js.angular-1.1.4.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/.angular-mobile.js.swp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-bootstrap-prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-bootstrap-prettify.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-cookies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-cookies.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-loader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-loader.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-mobile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-mobile.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-mocks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-resource.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-resource.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-sanitize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-sanitize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular-scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_af-na.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_af-za.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_af.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_am-et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_am.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-001.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-ae.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-bh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-dz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-eg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-iq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-jo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-kw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-lb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-ly.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-ma.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-om.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-qa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-sa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-sd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-sy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-tn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar-ye.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_bg-bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_bn-bd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_bn-in.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_bn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ca-ad.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ca-es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_chr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_cs-cz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_cy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_da-dk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_de-at.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_de-be.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_de-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_de-de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_de-li.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_de-lu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_el-cy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_el-gr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_el-polyton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-as.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-au.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-bb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-be.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-bm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-bw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-bz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-dsrt-us.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-dsrt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-fm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-gb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-gu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-gy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-hk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-ie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-in.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-iso.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-jm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-mh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-mp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-mt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-mu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-na.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-nz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-ph.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-pk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-pr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-pw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-sg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-tc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-tt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-um.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-us.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-vg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-za.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-zw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en-zz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-419.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-bo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-cl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-co.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-cr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-do.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-ea.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-ec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-gq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-gt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-hn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-ic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-mx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-ni.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-pa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-pe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-pr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-py.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-us.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-uy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es-ve.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_et-ee.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_eu-es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_eu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fa-af.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fa-ir.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fi-fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fil-ph.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fil.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-be.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-bf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-bi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-bj.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-bl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-cd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-cf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-cg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-ci.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-cm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-dj.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-ga.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-gf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-gn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-gp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-gq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-km.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-lu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-mc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-mf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-mg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-ml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-mq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-ne.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-re.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-rw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-sn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-td.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-tg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr-yt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_gl-es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_gl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_gsw-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_gsw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_gu-in.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_gu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_haw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_he-il.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_hi-in.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_hi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_hr-hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_hu-hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_id-id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_in.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_is-is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_it-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_it-it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_it-sm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_iw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ja-jp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_kn-in.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_kn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ko-kr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ln-cd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ln-cg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ln.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_lt-lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_lv-lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ml-in.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_mo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_mr-in.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_mr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ms-bn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ms-my.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_mt-mt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_mt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_nl-aw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_nl-be.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_nl-cw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_nl-nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_nl-sx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_no.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_or-in.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_or.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_pl-pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_pt-ao.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_pt-gw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_pt-mz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_pt-pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_pt-st.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ro-md.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ro-ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ru-md.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ru-ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ru-ua.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sk-sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sl-si.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sq-al.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sr-cyrl-ba.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sr-cyrl-me.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sr-cyrl-rs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sr-cyrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sr-latn-ba.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sr-latn-me.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sr-latn-rs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sr-latn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sr-rs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sv-fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sv-se.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sw-ke.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sw-tz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_sw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ta-in.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ta-lk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ta.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_te-in.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_te.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_th-th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_tl-ph.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_tl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_tr-tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_uk-ua.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ur-in.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ur-pk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_ur.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_vi-vn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_zh-hans-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_zh-hans-hk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_zh-hans-mo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_zh-hans-sg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_zh-hans.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_zh-hant-hk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_zh-hant-mo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_zh-hant-tw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_zh-hant.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_zh-hk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_zh-tw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_zh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_zu-za.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/resources/i18n/angular-locale_zu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lib/site-packages/js/angular/test_angularjs.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pip-selfcheck.json" afterPath="$PROJECT_DIR$/pip-selfcheck.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/app/app.config.js" afterPath="$PROJECT_DIR$/src/js/app/app.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/app/app.module.js" afterPath="$PROJECT_DIR$/src/js/app/app.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/app/blog-list/blog-list.component.js" afterPath="$PROJECT_DIR$/src/js/app/blog-list/blog-list.component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/app/blog-list/blog-list.module.js" afterPath="$PROJECT_DIR$/src/js/app/blog-list/blog-list.module.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,24 +370,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="angular.min.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/js/angular.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4485">
-              <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.module.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/app/app.module.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -45,20 +383,18 @@
       <file leaf-file-name="app.config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/app/app.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+            <state relative-caret-position="198">
+              <caret line="6" column="70" lean-forward="false" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -67,11 +403,49 @@
       <file leaf-file-name="blog-list.component.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/app/blog-list/blog-list.component.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GemFile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GemFile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ru" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Ruby24-x64/bin/config.ru">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ru" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.ru">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog-list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/templates/blog-list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,11 +453,9 @@
       <file leaf-file-name="blog-list.module.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/app/blog-list/blog-list.module.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="17" selection-end-column="32" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -93,8 +465,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -106,11 +478,16 @@
       <list>
         <option value="$PROJECT_DIR$/angular.min.js" />
         <option value="$PROJECT_DIR$/src/quickTips.md" />
-        <option value="$PROJECT_DIR$/src/js/app/app.config.js" />
-        <option value="$PROJECT_DIR$/src/js/app/app.module.js" />
+        <option value="$PROJECT_DIR$/src/templates/blog-list.html" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/GemFile" />
+        <option value="C:/Ruby24-x64/bin/config.ru" />
+        <option value="$PROJECT_DIR$/config.ru" />
         <option value="$PROJECT_DIR$/src/js/app/blog-list/blog-list.module.js" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/js/app/app.module.js" />
+        <option value="$PROJECT_DIR$/src/js/app/app.config.js" />
         <option value="$PROJECT_DIR$/src/js/app/blog-list/blog-list.component.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -174,8 +551,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -216,7 +593,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -235,36 +612,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DjangoAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DjangoAngular" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog-list" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -273,9 +620,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/js/angular.min.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MisioTest" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Bower" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -287,6 +634,9 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\DjangoProjects\DjangoAngular" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\PycharmProjects\DjangoProjects\DjangoAngular\src" />
       <recent name="C:\PycharmProjects\DjangoProjects\DjangoAngular\js" />
@@ -405,6 +755,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -527,39 +883,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3830" y="-10" width="3860" height="2124" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14721486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14986737" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18441558" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18441558" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18441558" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14717478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -577,7 +920,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11022">
           <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,7 +927,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -601,7 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11022">
           <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -617,7 +957,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,7 +964,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11022">
           <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -641,7 +979,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -649,7 +986,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11022">
           <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +1001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +1008,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11022">
           <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,7 +1023,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11022">
           <caret line="334" column="0" lean-forward="true" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +1038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10890">
           <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,7 +1045,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +1052,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,7 +1067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11022">
           <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,7 +1082,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -761,7 +1089,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11022">
           <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -769,7 +1096,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -785,7 +1111,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11022">
           <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,7 +1126,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,7 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11022">
           <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -825,7 +1148,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -833,7 +1155,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11022">
           <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -849,7 +1170,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -857,7 +1177,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11022">
           <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -873,7 +1192,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11022">
           <caret line="334" column="0" lean-forward="true" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -896,55 +1214,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/app/blog-list/blog-list.module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/app/app.module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/app/app.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/app/blog-list/blog-list.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -952,6 +1221,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4485">
           <caret line="334" column="0" lean-forward="false" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GemFile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Ruby24-x64/bin/config.ru">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ru">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/blog-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/app/blog-list/blog-list.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/app/app.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/app/app.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/app/blog-list/blog-list.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="70" lean-forward="false" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
           <folding />
         </state>
       </provider>
