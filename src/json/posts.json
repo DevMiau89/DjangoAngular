@@ -3,8 +3,16 @@
                     "comments": [
                       {"id": 1, "text": "Nice book"},
                       {"id": 2, "text": "Another comment"}
-                    ]},
-  {"title": " Title", "id": 2, "description": "This is a book"},
-  {"title": "Tea", "id": 3, "description": "This is a book"},
-  {"title": "Lite", "id": 4, "description": "This is a book"}
+                    ],
+    "image":"/img/cat.jpg"
+  },
+  {"title": " Title", "id": 2, "description": "This is a book", "publishDate": "2016-02-11", "image":"/img/cat.jpg"},
+  {"title": "Tea", "id": 3, "description": "This is a book", "publishDate": "2016-10-18", "image":"/img/cat.jpg"},
+  {"title": "Lite", "id": 4, "description": "This is a book", "publishDate": "2016-06-01", "image":"/img/cat.jpg"},
+  {"title": "Tea", "id": 3, "description": "This is a book", "publishDate": "2016-10-18", "image":"/img/cat.jpg"},
+  {"title": "Tea", "id": 3, "description": "This is a book", "publishDate": "2016-10-18", "image":"/img/cat.jpg"},
+  {"title": "Tea", "id": 3, "description": "This is a book", "publishDate": "2016-10-18", "image":"/img/cat.jpg"},
+  {"title": "Tea", "id": 3, "description": "This is a book", "publishDate": "2016-10-18", "image":"/img/cat.jpg"},
+  {"title": "Tea", "id": 3, "description": "This is a book", "publishDate": "2016-10-18", "image":"/img/cat.jpg"}
+
 ]
